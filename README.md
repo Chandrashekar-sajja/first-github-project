@@ -1,11 +1,16 @@
-# first-github-project
-this is my basic project created to learn github and git
+# NaviX Dashboard UI
 
-## What i learned
-1. Creating a repository
-2. Adding Files
-3. Committing changes
-4. Pushing code to github
+This is a responsive admin dashboard UI built using HTML and CSS.
 
-## Project Description
-This project contains a simple HTML page to demonstrate how a project is stored and managed in GitHub.
+## Features
+- Sidebar navigation
+- Dashboard cards
+- Sales revenue chart
+- Weekly sales donut chart
+- Responsive layout
+
+## Technologies Used
+HTML
+CSS
+Google Charts
+Font Awesome
